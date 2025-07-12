@@ -83,9 +83,3 @@ Performance metrics include:
 - Runtime
 
 ---
-
-## 👤 Author
-
-**Teodor-Adrian Harea**  
-Group: 333CA  
-Course: Artificial Intelligence – Assignment 1
